@@ -29,7 +29,7 @@ public class Produto {
 
         public void setNome(String nome){
             if(nome==null){
-                System.out.println("Nome inválido");
+                System.out.println("Nome iiinválido");
             }else {
                 this.nome = nome;
             }
